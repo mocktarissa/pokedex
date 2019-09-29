@@ -1,6 +1,5 @@
 .pokemon{
-    margin: 25%,0%;
-    
-    align-content: center;
-    align-items: flex-start;
+    border: 1.75px solid green;    
+   width: 250px;
+   margin: 1px
 }
