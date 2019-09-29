@@ -1,5 +1,9 @@
 .pokemon{
-    border: 1.75px solid green;    
-   width: 250px;
-   margin: 1px
+   border: 4px mediumspringgreen; 
+   width: 300px;
+   padding: 10px;
+   margin: 1rem;
+   box-shadow: 7px 10px 12px -5px rgba(0, 0, 0, 0.56);
+   background: white;
+   border-radius: 5px;
 }

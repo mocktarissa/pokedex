@@ -1,6 +1,6 @@
-.App {
+body {
   text-align: center;
-  display: flex;
+  background: wheat
 }
 
 .App-logo {

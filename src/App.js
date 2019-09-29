@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Pokedex from './Pokedex';
-import './Pokedex.css'
+import './pokemon.css'
 
 function App() {
   return(<div> <h1> Pokegame</h1>
